@@ -10,8 +10,6 @@ Explore the live demo: [Redux Shopping Cart Project](https://redux-cart1.netlify
 
 The project utilizes Redux for state management, incorporating features like a shopping cart with the ability to add, remove items, and a modal for confirming the clearing of the entire cart. The UI components include a Navbar, Cart Container, Cart Item, and a Modal for better user interaction.
 
-## Project Structure
-
 ## Getting Started
 
 1. Clone the repository:
